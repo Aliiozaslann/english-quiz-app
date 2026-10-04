@@ -1,0 +1,48 @@
+MEANING|Please **chop** the onions and carrots into small pieces.|Doğramak / Kıyım kıyım kesmek|Doğramak / Kıyım kıyım kesmek|Kaynatmak|Kızartmak|Fırınlamak
+FILL_BLANK|Add a pinch of salt to ___ the flavor of the soup.|enhance|enhance|burn|freeze|destroy
+SYNONYM|What is the closest synonym of **recipe**?|Cooking instructions|Cooking instructions|Shopping list|Restaurant bill|Kitchen table
+ANTONYM|What is the opposite of **raw** meat?|Cooked|Cooked|Cold|Fresh|Frozen
+COMPLETION|Boil the water in the kettle before pouring it into the ___.|teapot|teapot|refrigerator|oven|toaster
+TR_TO_EN|"Yemeği kısık ateşte yirmi dakika pişirin."|Cook the meal over low heat for twenty minutes.|Cook the meal over low heat for twenty minutes.|Freeze the food inside the microwave oven.|The dinner was burned completely by the chef.|Nobody liked the taste of this salad.
+MEANING|You should **whisk** the eggs and milk until fluffy.|Çırpmak|Çırpmak|Dondurmak|Fırına vermek|Rendelemek
+FILL_BLANK|Use a sharp knife to ___ the skin off the apples.|peel|peel|bake|melt|boil
+SYNONYM|What is the closest synonym of **delicious**?|Tasty|Tasty|Bitter|Salty|Sour
+ANTONYM|What is the opposite of **sweet** dessert?|Bitter|Bitter|Sugary|Warm|Soft
+COMPLETION|Preheat the oven to 180 degrees before baking the ___.|cake|cake|soup|ice cream|tea
+TR_TO_EN|"Tavaya biraz zeytinyağı ekleyip ısıtın."|Add some olive oil to the pan and heat it.|Add some olive oil to the pan and heat it.|Put the cold milk into the freezer.|We ran out of butter this morning.|Wash the vegetables in cold water.
+MEANING|Please **grate** some cheddar cheese over the pasta.|Rendelemek|Rendelemek|Kaynatmak|Yoğurmak|Yakmak
+FILL_BLANK|The soup is boiling, so turn down the stove's ___.|heat|heat|water|plate|spoon
+SYNONYM|What is the synonym of **beverage**?|Drink|Drink|Meal|Snack|Dessert
+ANTONYM|What is the opposite of **fresh** bread?|Stale|Stale|Warm|Soft|Crispy
+COMPLETION|Stir the sauce continuously with a wooden ___ so it won't stick.|spoon|spoon|fork|knife|plate
+TR_TO_EN|"Etin yeterince piştiğinden emin olmalısın."|You must ensure that the meat is thoroughly cooked.|You must ensure that the meat is thoroughly cooked.|The bread was very fresh and soft.|We forgot to buy salt from the grocery.|Nobody wants to eat cold soup.
+MEANING|You need to **knead** the dough for ten minutes.|Hamur yoğurmak|Hamur yoğurmak|Çorba karıştırmak|Sebze yıkamak|Tavuk kızartmak
+FILL_BLANK|Keep dairy products in the ___ to prevent spoiling.|refrigerator|refrigerator|oven|sink|cupboard
+SYNONYM|What is the closest synonym of **simmer**?|Boil gently|Boil gently|Freeze fast|Burn heavily|Slice thin
+ANTONYM|What is the opposite of **mild** spice?|Spicy|Spicy|Bland|Sweet|Cold
+COMPLETION|Drain the boiled pasta using a large kitchen ___.|colander|colander|fork|cup|towel
+TR_TO_EN|"Tuzu fazla kaçırdığı için çorba çok tuzlu oldu."|The soup became too salty because he added too much salt.|The soup became too salty because he added too much salt.|The meal was completely cold and tasteless.|We ordered food from an Italian restaurant.|She cooked rice with butter and pepper.
+MEANING|Let the butter **melt** in the frying pan before adding meat.|Erimek / Eritmek|Erimek / Eritmek|Dondurmak|Yakmak|Kurutmak
+FILL_BLANK|Can you pass me the paper ___ to wipe my hands?|towel|towel|plate|pot|pan
+SYNONYM|What is the synonym of **leftovers**?|Remaining food|Remaining food|Fresh fruits|Raw meat|New ingredients
+ANTONYM|What is the opposite of **tender** steak?|Tough|Tough|Soft|Juicy|Cooked
+COMPLETION|Sprinkle a pinch of black pepper over the scrambled ___.|eggs|eggs|milk|coffee|juice
+TR_TO_EN|"Tavuk fırında nar gibi kızardı."|The chicken roasted beautifully in the oven.|The chicken roasted beautifully in the oven.|The fish was frozen in the freezer.|We ordered pizza for dinner yesterday.|The stove stopped working suddenly.
+MEANING|Please **marinate** the beef in olive oil and garlic for two hours.|Marine etmek / Soslayıp bekletmek|Marine etmek / Soslayıp bekletmek|Hemen kızartmak|Buzluğa atmak|Haşlamak
+FILL_BLANK|The coffee is too hot to drink; wait for it to ___ down.|cool|cool|burn|heat|boil
+SYNONYM|What is the synonym of **appetizer**?|Starter|Starter|Dessert|Main dish|Beverage
+ANTONYM|What is the opposite of **ripe** banana?|Unripe|Unripe|Sweet|Yellow|Soft
+COMPLETION|Wipe the kitchen counter with a damp ___ after cooking.|cloth|cloth|spoon|fork|pan
+TR_TO_EN|"Bu tarif için sadece dört taze malzeme gerekiyor."|This recipe requires only four fresh ingredients.|This recipe requires only four fresh ingredients.|The restaurant closed early this evening.|We washed all the dishes after breakfast.|The cake took two hours to bake.
+MEANING|Be careful not to **spill** the hot soup on your shirt.|Dökmek / Damlatmak|Dökmek / Damlatmak|İçmek|Tadına bakmak|Saklamak
+FILL_BLANK|I prefer sparkling mineral water over regular tap ___.|water|water|juice|milk|soup
+SYNONYM|What is the closest synonym of **ingredient**?|Component|Component|Utensil|Appliance|Leftover
+ANTONYM|What is the opposite of **crunchy** chips?|Soggy|Soggy|Crisp|Hard|Dry
+COMPLETION|Turn off the gas stove as soon as the kettle starts to ___.|whistle|whistle|freeze|sleep|talk
+TR_TO_EN|"Yemekten sonra bulaşıkları makineye yerleştirdim."|I loaded the dishes into the dishwasher after dinner.|I loaded the dishes into the dishwasher after dinner.|We forgot to buy dish soap at the market.|The table was covered with bread crumbs.|The kitchen sink was full of dirty pots.
+MEANING|He decided to **season** the roasted potatoes with rosemary.|Baharatlandırmak / Çeşnilendirmek|Baharatlandırmak / Çeşnilendirmek|Yıkamak|Buzluğa koymak|Soymak
+FILL_BLANK|This dessert tastes delicious; do you have the secret ___?|recipe|recipe|plate|spoon|oven
+SYNONYM|What is the synonym of **cutlery**?|Silverware|Silverware|Napkin|Tablecloth|Cupboard
+ANTONYM|What is the opposite of **deep-fried** food?|Steamed|Steamed|Oily|Crispy|Greasy
+COMPLETION|After peeling the potatoes, cut them into equal sized ___.|slices|slices|drops|bottles|pans
+TR_TO_EN|"Kahvaltıda taze sıkılmış portakal suyu içtik."|We drank freshly squeezed orange juice at breakfast.|We drank freshly squeezed orange juice at breakfast.|Coffee was served with hot milk and sugar.|The bakery ran out of fresh croissants.|The tea was too sweet for my taste.

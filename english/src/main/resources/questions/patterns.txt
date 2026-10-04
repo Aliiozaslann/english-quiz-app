@@ -1,0 +1,20 @@
+Ubiquitous|Her yerde bulunan / Çok yaygın|Smartphones have become ubiquitous in modern daily life.|Akıllı telefonlar modern günlük yaşamda her yerde bulunur hale geldi.|Advanced
+Pragmatic|Uygulamacı / Faydacı ve pratik|We need a pragmatic approach rather than relying on idealistic theories.|İdealist teorilere güvenmek yerine pratik bir yaklaşıma ihtiyacımız var.|Advanced
+Exacerbate|Kötüleştirmek / Durumu daha da zorlaştırmak|His aggressive attitude only served to exacerbate the conflict.|Saldırgan tutumu anlaşmazlığı daha da kötüleştirmekten başka bir işe yaramadı.|Advanced
+Ephemeral|Kısa ömürlü / Geçici|Fame in the digital age is often ephemeral and easily forgotten.|Dijital çağda şöhret genellikle kısa ömürlüdür ve çabuk unutulur.|Advanced
+Mitigate|Hafifletmek / Etkisini azaltmak|Emergency teams took immediate actions to mitigate the disaster risks.|Acil durum ekipleri afet risklerini hafifletmek için derhal harekete geçti.|Advanced
+Ambiguous|Muğlak / İki anlama gelebilen ve belirsiz|The contract contains ambiguous terms that lead to misunderstandings.|Sözleşme yanlış anlaşılmalara yol açan muğlak maddeler içeriyor.|Advanced
+Resilient|Dirençli / Zorluklar karşısında çabuk toparlanan|The local economy proved to be remarkably resilient after the crisis.|Yerel ekonomi krizden sonra dikkat çekici şekilde dirençli çıktı.|Advanced
+Complacent|Rehavete kapılmış / Fazla kendinden memnun|A market leader should never become complacent about competitors.|Bir pazar lideri rakipleri konusunda asla rehavete kapılmamalıdır.|Advanced
+Pernicious|Sinsi ve son derece zararlı|The pernicious effects of constant stress often go unnoticed.|Sürekli stresin sinsi zararları genellikle fark edilmez.|Advanced
+Discrepancy|Tutarsızlık / İki veri arasındaki uyumsuzluk|There is an obvious discrepancy between the budget and actual spending.|Bütçe ile gerçekleşen harcama arasında bariz bir tutarsızlık var.|Advanced
+Prevalent|Yaygın / Hakim olan durum|Chronic fatigue is prevalent among high-stress tech professionals.|Kronik yorgunluk yoğun stres altındaki teknoloji çalışanları arasında yaygındır.|Advanced
+Eloquent|Etkili ve güzel konuşan / Düzgün ifade edilmiş|She delivered an eloquent speech that moved the entire audience.|Tüm dinleyicileri duygulandıran son derece etkili bir konuşma yaptı.|Advanced
+Superfluous|Gereksiz / İhtiyaç fazlası ve lüzumsuz|Avoid using superfluous details that distract from the main argument.|Ana fikirden uzaklaştıran gereksiz detayları kullanmaktan kaçının.|Advanced
+Benevolent|Yardımsever / Hayırsever ve iyi niyetli|The institution survived thanks to a donation from a benevolent sponsor.|Kurum yardımsever bir sponsordan gelen bağış sayesinde ayakta kaldı.|Advanced
+Spurious|Sahte / Asılsız ve güvenilmez|The court dismissed the claims based on completely spurious evidence.|Mahkeme tamamen asılsız delillere dayanan iddiaları reddetti.|Advanced
+Lucid|Açık / Kolay anlaşılır ve net|His explanation of this complex algorithm was remarkably lucid.|Bu karmaşık algoritmayı açıklaması dikkat çekici derecede net ve açıktı.|Advanced
+Ostentatious|Gösterişli / Göze batmaya çalışan ve aşırı lüks|The billionaire was famous for his ostentatious displays of wealth.|Milyarder servetini gösterişli şekillerde sergilemesiyle ünlüydü.|Advanced
+Reticent|Ketum / Duygu ve düşüncelerini saklayan|He was surprisingly reticent when asked about the private incident.|Özel olay sorulduğunda şaşırtıcı derecede ketum davrandı.|Advanced
+Vindicate|Aklamak / Haklılığını kanıtlamak|The newly discovered evidence served to vindicate the accused officer.|Yeni ortaya çıkan kanıtlar suçlanan görevlinin haklılığını kanıtladı.|Advanced
+Tenacious|İnatçı / Azimli ve hedefine sımsıkı bağlı|Her tenacious determination allowed her to overcome critical obstacles.|Azimli kararlılığı kritik engellerin üstesinden gelmesini sağladı.|Advanced

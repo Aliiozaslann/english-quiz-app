@@ -1,0 +1,48 @@
+MEANING|The students must **analyze** the test results carefully.|Analiz etmek / İncelemek|Analiz etmek / İncelemek|Göz ardı etmek|Ezberlemek|Yırtmak
+FILL_BLANK|The professor asked us to write an essay on environmental ___.|pollution|pollution|dessert|holiday|fashion
+SYNONYM|What is the closest synonym of **investigate**?|Examine|Examine|Ignore|Forget|Hide
+ANTONYM|What is the opposite of **theory** in science?|Practice|Practice|Hypothesis|Concept|Idea
+COMPLETION|Students must hand in their assignments before the final ___.|deadline|deadline|breakfast|concert|party
+TR_TO_EN|"Bu araştırma önemli veriler içeriyor."|This research contains important data.|This research contains important data.|The study was completely useless.|Nobody read the article yesterday.|The teacher lost all the exam sheets.
+MEANING|You must provide **evidence** to support your argument.|Kanıt / Belge|Kanıt / Belge|Yalan|Dedikodu|Şüphe
+FILL_BLANK|The laboratory experiment was conducted under strict safety ___.|rules|rules|weather|games|jokes
+SYNONYM|What is the closest synonym of **method**?|Technique|Technique|Mistake|Accident|Hobby
+ANTONYM|What is the opposite of **accurate** information?|Incorrect|Incorrect|True|Exact|Precise
+COMPLETION|Every scientific paper should include an introduction and a ___.|conclusion|conclusion|ticket|menu|price
+TR_TO_EN|"Kütüphane sınav haftasında yirmi dört saat açıktır."|The library is open 24 hours during exam week.|The library is open 24 hours during exam week.|Students cannot study in the library.|All books were borrowed last semester.|The classroom was locked by security.
+MEANING|The scientist made a major **discovery** in biology.|Keşif / Buluş|Keşif / Buluş|Hata|Kayıp|Tuzak
+FILL_BLANK|Students must attend at least eighty percent of the university ___.|lectures|lectures|movies|parties|dances
+SYNONYM|What is the synonym of **significant**?|Important|Important|Trivial|Silly|Tiny
+ANTONYM|What is the opposite of **complex** grammar?|Simple|Simple|Difficult|Hard|Complicated
+COMPLETION|If you plagiarize your thesis, you will face severe disciplinary ___.|action|action|reward|praise|bonus
+TR_TO_EN|"Öğretmen konuyu çok net bir şekilde açıkladı."|The teacher explained the topic very clearly.|The teacher explained the topic very clearly.|The student did not understand anything.|The topic was too hard for everyone.|We skipped the chapter completely.
+MEANING|You need to **cite** your sources in the bibliography section.|Kaynak göstermek / Atıfta bulunmak|Kaynak göstermek / Atıfta bulunmak|Çalmak|Saklamak|Değiştirmek
+FILL_BLANK|The main ___ of this study is to measure student motivation.|purpose|purpose|color|shape|weight
+SYNONYM|What is the closest synonym of **evaluate**?|Assess|Assess|Destroy|Ignore|Steal
+ANTONYM|What is the opposite of **formal** writing?|Informal|Informal|Serious|Academic|Official
+COMPLETION|The university campus offers free internet access to all registered ___.|students|students|tourists|guards|drivers
+TR_TO_EN|"Sonuçlar tahmin ettiğimizden çok daha iyi çıktı."|The results turned out much better than we expected.|The results turned out much better than we expected.|The experiment failed completely.|Nobody checked the calculations.|We will repeat the test next year.
+MEANING|She has a deep **knowledge** of modern world history.|Bilgi / Birikim|Bilgi / Birikim|Cahillik|Şüphe|Korku
+FILL_BLANK|Reading books every day helps expand your vocabulary and general ___.|knowledge|knowledge|hunger|trouble|delay
+SYNONYM|What is the synonym of **concept**?|Idea|Idea|Tool|Action|Material
+ANTONYM|What is the opposite of **pass** an examination?|Fail|Fail|Succeed|Score|Win
+COMPLETION|To get a university degree, you need to complete all mandatory ___.|courses|courses|jokes|trips|games
+TR_TO_EN|"Bu dersi geçmek için çok çalışmalısın."|You must study hard to pass this course.|You must study hard to pass this course.|The exam was remarkably easy.|Nobody failed the final test.|You can skip the lectures anytime.
+MEANING|The author expressed an interesting **perspective** in the book.|Bakış açısı / Görüş|Bakış açısı / Görüş|Kayıtsızlık|Yanlışlık|Tembellik
+FILL_BLANK|The professor asked the class to debate the ethical ___ of cloning.|issues|issues|tickets|colors|dishes
+SYNONYM|What is the closest synonym of **primary** goal?|Main|Main|Secondary|Minor|Least
+ANTONYM|What is the opposite of **abstract** thinking?|Concrete|Concrete|Theoretical|Vague|Imaginary
+COMPLETION|Please write your name and student ID number at the top of the exam ___.|paper|paper|wall|desk|floor
+TR_TO_EN|"Bilim insanları aşı üzerinde çalışmaya devam ediyor."|Scientists continue to work on the vaccine.|Scientists continue to work on the vaccine.|The laboratory closed down yesterday.|Nobody cares about the disease.|The project was abandoned months ago.
+MEANING|Students are expected to **participate** actively in group discussions.|Katılmak / Yer almak|Katılmak / Yer almak|Kaçınmak|Seyirci kalmak|Uzak durmak
+FILL_BLANK|The survey was sent to over five hundred university ___ across the country.|students|students|pets|cars|rooms
+SYNONYM|What is the synonym of **brief** explanation?|Short|Short|Long|Endless|Heavy
+ANTONYM|What is the opposite of **accept** a hypothesis?|Reject|Reject|Agree|Support|Adopt
+COMPLETION|The research team received a generous grant to fund their laboratory ___.|equipment|equipment|lunch|vacation|clothes
+TR_TO_EN|"Konferansa birçok yabancı akademisyen katıldı."|Many foreign academics attended the conference.|Many foreign academics attended the conference.|Nobody showed up at the auditorium.|The speaker spoke in Turkish only.|The symposium was delayed due to rain.
+MEANING|We must **clarify** the ambiguous sentences in the text.|Netleştirmek / Açıklığa kavuşturmak|Netleştirmek / Açıklığa kavuşturmak|Karıştırmak|Gizlemek|Silmek
+FILL_BLANK|In academic writing, you should always avoid using slang and casual ___.|language|language|paper|pens|chairs
+SYNONYM|What is the closest synonym of **crucial** factor?|Vital|Vital|Optional|Unimportant|Tiny
+ANTONYM|What is the opposite of **increase** in grades?|Drop|Drop|Climb|Rise|Growth
+COMPLETION|Before submitting your final paper, remember to run a spelling and grammar ___.|check|check|race|game|party
+TR_TO_EN|"Deney sonuçları grafikte açıkça gösterilmiştir."|The experimental results are clearly shown in the chart.|The experimental results are clearly shown in the chart.|The data was completely invisible.|We did not draw any diagrams.|Nobody understood the summary table.

@@ -1,0 +1,42 @@
+MEANING|I usually **tidy up** my room every Saturday morning.|Ortalığı toparlamak / Düzenlemek|Ortalığı toparlamak / Düzenlemek|Kirletmek|Evi terk etmek|Taşınmak
+FILL_BLANK|Don't forget to set your alarm ___ before going to sleep.|clock|clock|car|door|window
+SYNONYM|What is the closest synonym of **errand**?|Chore task|Chore task|Long vacation|Hobby game|Formal party
+ANTONYM|What is the opposite of **wake up** early?|Fall asleep|Fall asleep|Get dressed|Take a shower|Have breakfast
+COMPLETION|Please remember to take out the trash before the garbage truck ___.|arrives|arrives|sleeps|eats|dries
+TR_TO_EN|"Her sabah işe gitmeden önce yürüyüşe çıkarım."|I go for a walk every morning before going to work.|I go for a walk every morning before going to work.|I missed the morning bus to the office.|The weather was too rainy for running.|Nobody wakes up before eight o'clock.
+MEANING|She forgot to **fold** the clean laundry yesterday.|Katlamak|Katlamak|Yıkamak|Ütülemek|Kirletmek
+FILL_BLANK|I need to go to the grocery store to buy daily ___.|groceries|groceries|tickets|clothes|furniture
+SYNONYM|What is the synonym of **commute** to work?|Travel|Travel|Sleep|Cook|Dance
+ANTONYM|What is the opposite of **crowded** subway?|Empty|Empty|Packed|Busy|Full
+COMPLETION|Put on your raincoat because it is pouring down ___.|outside|outside|bedroom|closet|sofa
+TR_TO_EN|"Akşamları uyumadan önce yarım saat kitap okurum."|I read a book for half an hour every evening before sleeping.|I read a book for half an hour every evening before sleeping.|I watch television all night until morning.|The library was closed during the weekend.|I bought three new novels from the bookstore.
+MEANING|Could you please **vacuum** the living room carpet?|Elektrik süpürgesiyle süpürmek|Elektrik süpürgesiyle süpürmek|Halıyı yıkamak|Halıyı çöpe atmak|Tozunu almak
+FILL_BLANK|I always brush my teeth twice a day with mint ___.|toothpaste|toothpaste|soap|towel|sponge
+SYNONYM|What is the synonym of **chores**?|Household duties|Household duties|Outdoor sports|Movie nights|School exams
+ANTONYM|What is the opposite of **neat** wardrobe?|Messy|Messy|Clean|Tidy|Organized
+COMPLETION|Make sure to lock the front door whenever you leave the ___.|house|house|car|office|street
+TR_TO_EN|"Hafta sonu arkadaşlarımla kafede buluşup sohbet ettik."|I met my friends at a café on the weekend and had a chat.|I met my friends at a café on the weekend and had a chat.|We stayed at home because of the cold weather.|Nobody wanted to drink coffee today.|The restaurant was extremely noisy.
+MEANING|I need to **iron** my white shirt for the wedding.|Ütülemek|Ütülemek|Yıkamak|Satın almak|Yırtmak
+FILL_BLANK|He takes a quick five-minute ___ every morning to freshen up.|shower|shower|dinner|walk|nap
+SYNONYM|What is the closest synonym of **neighborhood**?|District area|District area|City airport|Remote desert|Train station
+ANTONYM|What is the opposite of **noisy** street?|Quiet|Quiet|Loud|Busy|Crowded
+COMPLETION|Don't forget to charge your mobile phone before leaving your ___.|room|room|pocket|bag|shoes
+TR_TO_EN|"Alışveriş listesini evde unuttuğum için her şeyi kafadan aldım."|Because I forgot the shopping list at home, I bought everything from memory.|Because I forgot the shopping list at home, I bought everything from memory.|The supermarket was closed due to holidays.|I spent all my money on new clothes.|The cashier gave me the wrong receipt.
+MEANING|She loves to **browse** through magazines in her spare time.|Göz gezdirmek / Karıştırmak|Göz gezdirmek / Karıştırmak|Yırtıp atmak|Ezberlemek|Satın almak
+FILL_BLANK|Could you water the potted ___ on the balcony while I am away?|plants|plants|stones|chairs|doors
+SYNONYM|What is the synonym of **leisure** time?|Free time|Free time|Overtime work|Meeting hour|Exam period
+ANTONYM|What is the opposite of **spend** money?|Save|Save|Waste|Lose|Borrow
+COMPLETION|I like having a warm cup of herbal tea before going to ___.|bed|bed|work|school|gym
+TR_TO_EN|"Pazar günleri genellikle ailece kahvaltı yaparız."|On Sundays, we usually have breakfast together as a family.|On Sundays, we usually have breakfast together as a family.|We woke up late and missed our morning flight.|Nobody likes eating pancakes in the morning.|The kitchen was being renovated last week.
+MEANING|We need to **replace** the dead batteries in the remote control.|Değiştirmek / Yenisiyle yenilemek|Değiştirmek / Yenisiyle yenilemek|Kırmak|Saklamak|Temizlemek
+FILL_BLANK|It takes me twenty minutes to get ___ in the morning.|ready|ready|sleepy|angry|hungry
+SYNONYM|What is the synonym of **appointment**?|Scheduled meeting|Scheduled meeting|Chance encounter|Sudden accident|Holiday trip
+ANTONYM|What is the opposite of **punctual** person?|Tardy|Tardy|On time|Early|Polite
+COMPLETION|Hang your wet coat on the rack near the hallway ___.|entrance|entrance|window|ceiling|bed
+TR_TO_EN|"Hava çok soğuk olduğu için kalın bir mont giydim."|I put on a thick coat because the weather was very cold.|I put on a thick coat because the weather was very cold.|The weather was sunny and warm all afternoon.|I left my umbrella on the bus by mistake.|We went swimming in the outdoor pool.
+MEANING|He likes to **doze off** on the sofa while watching football.|Uyuya kalmak / Şekerleme yapmak|Uyuya kalmak / Şekerleme yapmak|Televizyonu kapatmak|Spor yapmak|Yemek yemek
+FILL_BLANK|I am running out of liquid hand ___ in the bathroom.|soap|soap|paper|towel|mirror
+SYNONYM|What is the synonym of **neighbor**?|Person living nearby|Person living nearby|School teacher|Bus driver|Foreign tourist
+ANTONYM|What is the opposite of **polite** neighbor?|Rude|Rude|Kind|Helpful|Friendly
+COMPLETION|Remember to turn off all the lights before leaving the ___.|apartment|apartment|street|car|yard
+TR_TO_EN|"Otobüs durağında yaklaşık on beş dakika bekledik."|We waited at the bus stop for about fifteen minutes.|We waited at the bus stop for about fifteen minutes.|The subway train broke down between stations.|We walked home because we missed the last bus.|The taxi driver did not know the address.

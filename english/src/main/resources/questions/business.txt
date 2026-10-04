@@ -1,0 +1,54 @@
+MEANING|We need to **schedule** a meeting with the client for tomorrow.|Planlamak / Zamanını belirlemek|Planlamak / Zamanını belirlemek|İptal etmek|Geciktirmek|Reddetmek
+FILL_BLANK|Please send me the detailed project ___ by the end of today.|report|report|color|cloud|taste
+SYNONYM|What is the closest synonym of **deadline**?|Due date|Due date|Start date|Holiday|Break time
+ANTONYM|What is the opposite of **profit** in commerce?|Loss|Loss|Gain|Income|Salary
+COMPLETION|If you work overtime, you will receive extra ___.|pay|pay|sleep|penalty|delay
+TR_TO_EN|"Müdür yeni teklifi onayladı."|The manager approved the new proposal.|The manager approved the new proposal.|The manager rejected all requests.|The manager cancelled the project yesterday.|The manager forgot the file completely.
+MEANING|Our team managed to **reduce** operational expenses this month.|Azaltmak / Düşürmek|Azaltmak / Düşürmek|Arttırmak|Satın almak|Unutmak
+FILL_BLANK|You should always keep your resume and CV ___ to date.|up|up|down|off|over
+SYNONYM|What is the synonym of **hire** in human resources?|Employ|Employ|Fire|Dismiss|Blame
+ANTONYM|What is the opposite of **expand** for a business?|Shrink|Shrink|Grow|Increase|Build
+COMPLETION|To apply for this vacancy, please fill out the online application ___.|form|form|ticket|letter|desk
+TR_TO_EN|"Bu faturayı cuma gününden önce ödemeliyiz."|We must pay this invoice before Friday.|We must pay this invoice before Friday.|We can ignore the bill forever.|We will write an email tomorrow morning.|The client refused to pay the price.
+MEANING|The company offers a great **opportunity** for young graduates.|Fırsat / Olanak|Fırsat / Olanak|Engel|Tehlike|Kayıp
+FILL_BLANK|The human resources team will ___ interviews next Monday.|conduct|conduct|damage|forget|refuse
+SYNONYM|What is the closest synonym of **annual**?|Yearly|Yearly|Daily|Monthly|Hourly
+ANTONYM|What is the opposite of **success** in business?|Failure|Failure|Victory|Trophy|Award
+COMPLETION|Customer satisfaction is our company's top ___.|priority|priority|problem|excuse|delay
+TR_TO_EN|"Yeni ürünümüz piyasada çok başarılı oldu."|Our new product was very successful in the market.|Our new product was very successful in the market.|The product failed immediately.|We stopped manufacturing the goods.|Nobody wanted to buy our items.
+MEANING|We should **negotiate** the contract terms before signing.|Müzakere etmek / Pazarlık yapmak|Müzakere etmek / Pazarlık yapmak|İmzalamamak|Yırtıp atmak|Yok saymak
+FILL_BLANK|Can you please check the budget ___ before our presentation?|spreadsheet|spreadsheet|kitchen|garden|garage
+SYNONYM|What is the synonym of **goal** in a project?|Objective|Objective|Accident|Hobby|Pastime
+ANTONYM|What is the opposite of **mandatory** training?|Optional|Optional|Compulsory|Forced|Essential
+COMPLETION|Due to bad weather, the product shipment was ___.|delayed|delayed|improved|promoted|congratulated
+TR_TO_EN|"Tüm çalışanlar şirket kurallarına uymalıdır."|All employees must follow the company rules.|All employees must follow the company rules.|Employees can do whatever they want.|The rules are only for managers.|Nobody listened to the supervisor.
+MEANING|She received a well-deserved **promotion** last week.|Terfi / Rütbe artışı|Terfi / Rütbe artışı|İşten çıkarılma|Ceza|Uyarı
+FILL_BLANK|Our marketing department launched a new advertising ___ on social media.|campaign|campaign|furniture|vehicle|recipe
+SYNONYM|What is the closest synonym of **client**?|Customer|Customer|Competitor|Enemy|Robber
+ANTONYM|What is the opposite of **revenue**?|Expenditure|Expenditure|Profit|Income|Reward
+COMPLETION|If you have any questions, feel free to contact our customer ___ team.|support|support|problem|damage|complaint
+TR_TO_EN|"Toplantı saat 10'da başlayacak."|The meeting will start at 10 o'clock.|The meeting will start at 10 o'clock.|The meeting finished very late.|We did not go to the office.|The conference was cancelled yesterday.
+MEANING|The firm has a strong **reputation** in the global market.|İtibar / Saygınlık|İtibar / Saygınlık|Kötü şöhret|Bütçe açığı|Hata
+FILL_BLANK|The CEO will give an important speech at the annual general ___.|meeting|meeting|lunch|vacation|movie
+SYNONYM|What is the synonym of **assist**?|Help|Help|Hurt|Block|Ignore
+ANTONYM|What is the opposite of **permanent** position?|Temporary|Temporary|Fixed|Secure|Lasting
+COMPLETION|Please sign your signature on the dotted line at the bottom of the ___.|page|page|ceiling|door|window
+TR_TO_EN|"Gelecek ay yeni bir ofis açacağız."|We will open a new office next month.|We will open a new office next month.|We closed our old branch office.|Our workers moved to another city.|Nobody likes working in offices.
+MEANING|We have to **improve** our software quality based on reviews.|Geliştirmek / İyileştirmek|Geliştirmek / İyileştirmek|Bozmak|Terk etmek|Satmak
+FILL_BLANK|I am writing to ___ about the damaged package I received.|complain|complain|celebrate|congratulate|enjoy
+SYNONYM|What is the closest synonym of **purchase**?|Buy|Buy|Sell|Steal|Break
+ANTONYM|What is the opposite of **efficient** work?|Wasteful|Wasteful|Productive|Fast|Accurate
+COMPLETION|All team members should communicate clearly to avoid any ___.|misunderstanding|misunderstanding|success|bonus|celebration
+TR_TO_EN|"Şirket bu yıl yüzde yirmi büyüdü."|The company grew by twenty percent this year.|The company grew by twenty percent this year.|The firm went bankrupt unexpectedly.|We lost half of our market share.|All sales remained identical.
+MEANING|He decided to **invest** his savings in renewable energy.|Yatırım yapmak|Yatırım yapmak|Harcayıp bitirmek|Borç almak|Saklamak
+FILL_BLANK|Our company offers a flexible working ___ for all parents.|schedule|schedule|dinner|ticket|movie
+SYNONYM|What is the synonym of **task**?|Duty|Duty|Game|Holiday|Joke
+ANTONYM|What is the opposite of **increase**?|Decrease|Decrease|Grow|Climb|Rise
+COMPLETION|You must attach your portfolio when submitting your resume via ___.|email|email|radio|television|newspaper
+TR_TO_EN|"Maaşlar her ayın son gününde yatar."|Salaries are paid on the last day of each month.|Salaries are paid on the last day of each month.|Nobody gets paid in this company.|Bonuses are distributed every week.|I spent my money on travel.
+MEANING|The company decided to **launch** the mobile application soon.|Piyasaya sürmek / Başlatmak|Piyasaya sürmek / Başlatmak|Durdurmak|Geri çekmek|Unutmak
+FILL_BLANK|We need to analyze the market trends before making a big ___.|investment|investment|sandwich|holiday|movie
+SYNONYM|What is the synonym of **urgent**?|Pressing|Pressing|Slow|Casual|Lazy
+ANTONYM|What is the opposite of **expensive**?|Cheap|Cheap|Costly|Pricey|Valuable
+COMPLETION|Please make sure to double check all financial figures for any ___.|error|error|bonus|luck|joy
+TR_TO_EN|"Bu projeyi vaktinde teslim etmeliyiz."|We must deliver this project on time.|We must deliver this project on time.|We are going to delay the task forever.|The client cancelled the project today.|Nobody knows when the deadline is.

@@ -1,0 +1,48 @@
+MEANING|All passengers must show their **boarding pass** at the gate.|Biniş kartı|Biniş kartı|Otel faturası|Pasaport kılıfı|Tren bileti
+FILL_BLANK|Excuse me, where is the baggage ___ carousel located?|claim|claim|shop|ticket|room
+SYNONYM|What is the closest synonym of **trip**?|Journey|Journey|Job|House|Meeting
+ANTONYM|What is the opposite of **arrival** at an airport?|Departure|Departure|Landing|Delay|Check-in
+COMPLETION|Please keep your seatbelt fastened while the airplane is in the ___.|air|air|water|station|lobby
+TR_TO_EN|"Uçuşumuz kötü hava şartları nedeniyle ertelendi."|Our flight was delayed due to bad weather conditions.|Our flight was delayed due to bad weather conditions.|The airplane landed twenty minutes early.|We missed our train connection yesterday.|Nobody wanted to board the aircraft.
+MEANING|We booked a double room with a sea **view**.|Manzara / Görünüm|Manzara / Görünüm|Fiyat|Balkon kapısı|Klima
+FILL_BLANK|You must have a valid ___ to travel to foreign countries.|passport|passport|credit|receipt|coupon
+SYNONYM|What is the synonym of **reservation** at a restaurant?|Booking|Booking|Cancellation|Menu|Receipt
+ANTONYM|What is the opposite of **domestic** flight?|International|International|Local|Short|Direct
+COMPLETION|The receptionist gave us the electronic room key card at the front ___.|desk|desk|window|garden|garage
+TR_TO_EN|"Otele giriş saati öğleden sonra ikidir."|Check-in time at the hotel is at two in the afternoon.|Check-in time at the hotel is at two in the afternoon.|The hotel does not accept any credit cards.|Breakfast is served until ten in the morning.|We vacated our room early yesterday.
+MEANING|The flight attendant showed us the emergency **exits**.|Çıkış kapıları|Çıkış kapıları|Koltuk numaraları|Yemek tepsileri|El bagajları
+FILL_BLANK|How much is the bus ___ from the airport to downtown?|fare|fare|food|weight|hour
+SYNONYM|What is the synonym of **luggage**?|Baggage|Baggage|Ticket|Seat|Pilot
+ANTONYM|What is the opposite of **take off** for an airplane?|Land|Land|Fly|Cruise|Board
+COMPLETION|Do you prefer a window seat or an ___ seat on long flights?|aisle|aisle|roof|engine|wing
+TR_TO_EN|"Döviz bürosunda biraz para bozdurmam gerekiyor."|I need to exchange some money at the currency exchange office.|I need to exchange some money at the currency exchange office.|I lost my wallet at the bus station.|Banks are closed during weekends.|Everything is very cheap in this city.
+MEANING|We hired a local tour **guide** to show us ancient ruins.|Rehber|Rehber|Şoför|Garson|Aşçı
+FILL_BLANK|Remember to pack comfortable walking shoes for the city sightseeing ___.|tour|tour|meal|hotel|flight
+SYNONYM|What is the synonym of **destination**?|Goal location|Goal location|Starting point|Ticket price|Bus stop
+ANTONYM|What is the opposite of **direct** flight?|Connecting|Connecting|Fast|Straight|Express
+COMPLETION|Passengers are allowed to bring one small carry-on bag into the ___ cabin.|airplane|airplane|train|taxi|ferry
+TR_TO_EN|"Şehir merkezine giden en hızlı yol metroya binmektir."|The fastest way to the city center is taking the subway.|The fastest way to the city center is taking the subway.|Taxis are completely free of charge here.|Walking will take more than five hours.|The bus station is closed for maintenance.
+MEANING|I bought a colorful **souvenir** for my family from the bazaar.|Hediyelik eşya / Hatıra|Hediyelik eşya / Hatıra|Uçak bileti|Güneş kremi|Şehir haritası
+FILL_BLANK|The transatlantic cruise ship will dock at the harbor tomorrow ___.|morning|morning|year|century|minute
+SYNONYM|What is the closest synonym of **vacation**?|Holiday|Holiday|Work|Duty|Project
+ANTONYM|What is the opposite of **occupied** hotel room?|Vacant|Vacant|Full|Busy|Reserved
+COMPLETION|Before going through customs, you must declare valuable goods on this ___.|form|form|ticket|poster|mirror
+TR_TO_EN|"Tren istasyonu otele sadece beş dakikalık yürüme mesafesinde."|The train station is only a five-minute walk from the hotel.|The train station is only a five-minute walk from the hotel.|We missed the last bus to the airport.|The taxi driver drove very fast.|Nobody knows the direction to the beach.
+MEANING|The hotel provides complimentary **breakfast** every morning.|Ücretsiz kahvaltı|Ücretsiz kahvaltı|Pahalı akşam yemeği|Geç öğle yemeği|Sıcak kahve
+FILL_BLANK|Make sure your luggage does not exceed the weight ___ of twenty kilograms.|limit|limit|color|name|brand
+SYNONYM|What is the synonym of **commute**?|Travel to work|Travel to work|Go on holiday|Stay at home|Sleep in hotel
+ANTONYM|What is the opposite of **one-way** ticket?|Round-trip|Round-trip|Single|Express|Reserved
+COMPLETION|Don't forget to set your watch to the local time ___ when landing abroad.|zone|zone|color|room|price
+TR_TO_EN|"Müzeye giriş öğrencilere ücretsizdir."|Admission to the museum is free for students.|Admission to the museum is free for students.|The museum is closed on Mondays.|Tickets must be bought online in advance.|No cameras are allowed inside the gallery.
+MEANING|The airplane encountered severe **turbulence** over the ocean.|Hava sarsıntısı / Türbülans|Hava sarsıntısı / Türbülans|Kuş sürüsü|Motor arızası|Yakıt sızıntısı
+FILL_BLANK|You should always keep your passport and money in a safe travel ___.|pouch|pouch|cup|plate|bottle
+SYNONYM|What is the closest synonym of **schedule**?|Timetable|Timetable|Ticket|Map|Guide
+ANTONYM|What is the opposite of **passenger**?|Driver|Driver|Tourist|Guest|Customer
+COMPLETION|We decided to rent a compact car to explore the countryside at our own ___.|pace|pace|price|weight|ticket
+TR_TO_EN|"Uçak tam zamanında piste indi."|The airplane landed on the runway right on time.|The airplane landed on the runway right on time.|Our baggage was lost at the transit airport.|We waited for three hours inside the terminal.|The captain apologized for the technical delay.
+MEANING|We visited an ancient **castle** on top of the green hill.|Kale / Şato|Kale / Şato|Modern köprü|Yeraltı tüneli|Küçük kulübe
+FILL_BLANK|The ferry transports both foot passengers and motor ___ across the river.|vehicles|vehicles|houses|offices|schools
+SYNONYM|What is the synonym of **sightseeing**?|Touring attractions|Touring attractions|Shopping clothes|Eating meals|Sleeping in bed
+ANTONYM|What is the opposite of **peak season** in tourism?|Off-season|Off-season|High season|Summer time|Holiday
+COMPLETION|Please show your boarding pass and passport to the security officer at the ___ gate.|departure|departure|baggage|kitchen|parking
+TR_TO_EN|"Otel odamız çok temiz ve konforluydu."|Our hotel room was very clean and comfortable.|Our hotel room was very clean and comfortable.|The air conditioning did not work at all.|We complained about the noisy street.|The bed was extremely uncomfortable.

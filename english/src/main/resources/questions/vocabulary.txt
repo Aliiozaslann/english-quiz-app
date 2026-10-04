@@ -1,0 +1,110 @@
+TR_TO_EN|What is the Turkish meaning of **"Ambiguous"**?|Belirsiz, karmaşık|Net, açık|Tehlikeli|Gereksiz
+TR_TO_EN|What is the Turkish meaning of **"Reluctant"**?|İsteksiz, gönülsüz|Hevesli|Kararlı|Hızlı
+TR_TO_EN|**"Sürdürmek, devam ettirmek"** ifadesinin İngilizce karşılığı nedir?|Maintain|Abandon|Reject|Hesitate
+TR_TO_EN|**"Kaçınılmaz, engellenemez"** ifadesinin İngilizce karşılığı nedir?|Inevitable|Flexible|Temporary|Doubtful
+TR_TO_EN|What is the Turkish meaning of **"Comprehensive"**?|Kapsamlı, detaylı|Yetersiz|Sıkıcı|Hafif
+TR_TO_EN|**"İkna etmek"** fiilinin İngilizce karşılığı nedir?|Persuade|Ignore|Destroy|Demand
+TR_TO_EN|What is the Turkish meaning of **"Subtle"**?|İnce, göze çarpmayan|Kaba|Büyük|Gürültülü
+TR_TO_EN|**"Geliştirmek, artırmak"** fiilinin İngilizce karşılığı nedir?|Enhance|Reduce|Delay|Damage
+TR_TO_EN|What is the Turkish meaning of **"Scarcity"**?|Kıtlık, yetersizlik|Bolluk|Zenginlik|Huzur
+TR_TO_EN|**"Geçici"** kelimesinin İngilizce karşılığı nedir?|Temporary|Permanent|Crucial|Constant
+TR_TO_EN|What is the Turkish meaning of **"Ambiguous"**?|Belirsiz, karmaşık|Net, açık|Tehlikeli|Gereksiz
+TR_TO_EN|What is the Turkish meaning of **"Reluctant"**?|İsteksiz, gönülsüz|Hevesli|Kararlı|Hızlı
+TR_TO_EN|**"Sürdürmek, devam ettirmek"** kelimesinin İngilizce karşılığı nedir?|Maintain|Abandon|Reject|Hesitate
+TR_TO_EN|**"Kaçınılmaz, engellenemez"** kelimesinin İngilizce karşılığı nedir?|Inevitable|Flexible|Temporary|Doubtful
+TR_TO_EN|What is the Turkish meaning of **"Comprehensive"**?|Kapsamlı, detaylı|Yetersiz|Sıkıcı|Hafif
+TR_TO_EN|**"İkna etmek"** fiilinin İngilizce karşılığı nedir?|Persuade|Ignore|Destroy|Demand
+TR_TO_EN|What is the Turkish meaning of **"Subtle"**?|İnce, göze çarpmayan|Kaba|Büyük|Gürültülü
+TR_TO_EN|**"Geliştirmek, artırmak"** fiilinin İngilizce karşılığı nedir?|Enhance|Reduce|Delay|Damage
+TR_TO_EN|What is the Turkish meaning of **"Scarcity"**?|Kıtlık, yetersizlik|Bolluk|Zenginlik|Huzur
+TR_TO_EN|**"Geçici"** kelimesinin İngilizce karşılığı nedir?|Temporary|Permanent|Crucial|Constant
+TR_TO_EN|What is the Turkish meaning of **"Vulnerable"**?|Savunmasız, hassas|Güçlü|Kibirli|Beceriksiz
+TR_TO_EN|**"Terk etmek, vazgeçmek"** fiilinin İngilizce karşılığı nedir?|Abandon|Pursue|Adopt|Achieve
+TR_TO_EN|What is the Turkish meaning of **"Pragmatic"**?|Uygulamacı, pratik|Hayalperest|Korkak|Tembel
+TR_TO_EN|**"Meydana gelmek, gerçekleşmek"** fiilinin İngilizce karşılığı nedir?|Occur|Prevent|Vanish|Cancel
+TR_TO_EN|What is the Turkish meaning of **"Profound"**?|Derin, etkileyici|Yüzeysel|Basit|Hafif
+TR_TO_EN|**"Ortadan kaldırmak, yok etmek"** fiilinin İngilizce karşılığı nedir?|Eliminate|Create|Establish|Protect
+TR_TO_EN|What is the Turkish meaning of **"Feasible"**?|Uygulanabilir, mantıklı|İmkansız|Zararlı|Belirsiz
+TR_TO_EN|**"Elde etmek, edinmek"** fiilinin İngilizce karşılığı nedir?|Acquire|Lose|Give|Spend
+TR_TO_EN|What is the Turkish meaning of **"Plausible"**?|Makul, akla yatkın|Saçma|Kesin|Tehlikeli
+TR_TO_EN|**"Çelişki, tutarsızlık"** kelimesinin İngilizce karşılığı nedir?|Contradiction|Agreement|Harmony|Clarity
+TR_TO_EN|What is the Turkish meaning of **"Resilient"**?|Dayanıklı, çabuk toparlanan|Kırılgan|Yavaş|Tembel
+TR_TO_EN|**"Şüpheci, kuşkucu"** kelimesinin İngilizce karşılığı nedir?|Skeptical|Confident|Naive|Honest
+TR_TO_EN|What is the Turkish meaning of **"Trivial"**?|Önemsiz, sıradan|Hayati|Kritik|Değerli
+TR_TO_EN|**"Teşvik etmek, cesaretlendirmek"** fiilinin İngilizce karşılığı nedir?|Encourage|Discourage|Forbid|Postpone
+TR_TO_EN|What is the Turkish meaning of **"Persistent"**?|Israrcı, sürekli|Kararsız|Geçici|Dikkatsiz
+TR_TO_EN|**"Tahmin etmek, öngörmek"** fiilinin İngilizce karşılığı nedir?|Predict|Forget|Conceal|Neglect
+TR_TO_EN|What is the Turkish meaning of **"Rigid"**?|Sert, esnemez|Esnek|Yumuşak|Uyumlu
+TR_TO_EN|**"Engellemek, mani olmak"** fiilinin İngilizce karşılığı nedir?|Hinder|Facilitate|Support|Accelerate
+TR_TO_EN|What is the Turkish meaning of **"Abundant"**?|Bol, bereketli|Kıt|Yetersiz|Eksik
+TR_TO_EN|**"Taviz vermek, uzlaşmak"** kelimesinin İngilizce karşılığı nedir?|Compromise|Conflict|Demand|Insist
+TR_TO_EN|What is the Turkish meaning of **"Coherent"**?|Tutarlı, mantıklı|Karmaşık|Anlamsız|Kopuk
+TR_TO_EN|**"Kritik, çok önemli"** kelimesinin İngilizce karşılığı nedir?|Crucial|Minor|Optional|Vague
+TR_TO_EN|What is the Turkish meaning of **"Diligent"**?|Çalışkan, gayretli|Tembel|Dikkatsiz|Hilekar
+TR_TO_EN|**"Tükenmek, tüketmek"** fiilinin İngilizce karşılığı nedir?|Deplete|Supply|Restore|Expand
+TR_TO_EN|What is the Turkish meaning of **"Eloquent"**?|Güzel konuşan, ikna edici|Kekeme|Sessiz|Kaba
+TR_TO_EN|**"Kolaylaştırmak"** fiilinin İngilizce karşılığı nedir?|Facilitate|Complicate|Prevent|Delay
+TR_TO_EN|What is the Turkish meaning of **"Gregarious"**?|Sosyal, cana yakın|İçine kapanık|Düşmanca|Soğuk
+TR_TO_EN|**"Zorunlu, mecburi"** kelimesinin İngilizce karşılığı nedir?|Mandatory|Voluntary|Flexible|Careless
+TR_TO_EN|What is the Turkish meaning of **"Haphazard"**?|Rastgele, plansız|Düzenli|Sistemli|Kusursuz
+TR_TO_EN|**"Büyük ölçüde, önemli derecede"** zarfının İngilizce karşılığı nedir?|Substantially|Barely|Slightly|Rarely
+TR_TO_EN|What is the Turkish meaning of **"Impeccable"**?|Kusursuz, hatasız|Hatalı|Lekeli|Kötü
+TR_TO_EN|**"Eş zamanlı, aynı anda olan"** kelimesinin İngilizce karşılığı nedir?|Simultaneous|Sequential|Delayed|Previous
+TR_TO_EN|What is the Turkish meaning of **"Judicious"**?|Sağduyulu, makul|Düşüncesiz|Öfkeli|Aceleci
+TR_TO_EN|**"Benzeri görülmemiş, eşi benzeri olmayan"** kelimesinin İngilizce karşılığı nedir?|Unprecedented|Common|Familiar|Frequent
+TR_TO_EN|What is the Turkish meaning of **"Kinetic"**?|Hareketli, hareketle ilgili|Hareketsiz|Durgun|Sabit
+TR_TO_EN|**"Zararlı, tehlikeli"** kelimesinin İngilizce karşılığı nedir?|Detrimental|Beneficial|Safe|Helpful
+TR_TO_EN|What is the Turkish meaning of **"Lucid"**?|Açık, anlaşılır|Bulanık|Karmaşık|Karanlık
+TR_TO_EN|**"Örtüşmek, çakışmak"** fiilinin İngilizce karşılığı nedir?|Overlap|Separate|Divide|Isolate
+TR_TO_EN|What is the Turkish meaning of **"Meticulous"**?|Titiz, kılı kırk yaran|Özensiz|Dağınık|Savruk
+TR_TO_EN|**"Ödüllendirmek, telafi etmek"** fiilinin İngilizce karşılığı nedir?|Compensate|Punish|Rob|Blame
+TR_TO_EN|What is the Turkish meaning of **"Negligible"**?|Önemsiz, göz ardı edilebilir|Büyük|Değerli|Mühim
+TR_TO_EN|**"Hızlandırmak"** fiilinin İngilizce karşılığı nedir?|Accelerate|Decelerate|Halt|Delay
+TR_TO_EN|What is the Turkish meaning of **"Obsolete"**?|Kullanımdan kalkmış, demode|Modern|Yenilikçi|Kullanışlı
+TR_TO_EN|**"Genişletmek, büyütmek"** fiilinin İngilizce karşılığı nedir?|Expand|Shrink|Condense|Narrow
+TR_TO_EN|What is the Turkish meaning of **"Pinnacle"**?|Zirve, doruk noktası|Dip|Taban|Uçurum
+TR_TO_EN|**"Gereklilik, önkoşul"** kelimesinin İngilizce karşılığı nedir?|Prerequisite|Consequence|Result|Luxury
+TR_TO_EN|What is the Turkish meaning of **"Quaint"**?|Antika, hoş bir şekilde eski|Modern|Çirkin|Sıradan
+TR_TO_EN|**"Doğrulamak, onaylamak"** fiilinin İngilizce karşılığı nedir?|Verify|Deny|Falsify|Ignore
+TR_TO_EN|What is the Turkish meaning of **"Redundant"**?|Gereksiz, fazlalık|Gerekli|Eksik|Zorunlu
+TR_TO_EN|**"Azaltmak, hafifletmek"** fiilinin İngilizce karşılığı nedir?|Diminish|Enlarge|Double|Heighten
+TR_TO_EN|What is the Turkish meaning of **"Sporadic"**?|Düzensiz, aralıklı|Sürekli|Düzenli|Aralıksız
+TR_TO_EN|**"Çeşitlilik"** kelimesinin İngilizce karşılığı nedir?|Diversity|Monotony|Similarity|Sameness
+TR_TO_EN|What is the Turkish meaning of **"Tangible"**?|Somut, elle tutulur|Soyut|Hayali|Belirsiz
+TR_TO_EN|**"İstikrarlı, kararlı"** kelimesinin İngilizce karşılığı nedir?|Stable|Volatile|Unsteady|Shaky
+TR_TO_EN|What is the Turkish meaning of **"Ubiquitous"**?|Her yerde bulunan|Nadir|Görünmez|Eksik
+TR_TO_EN|**"Çürütmek, aksini kanıtlamak"** fiilinin İngilizce karşılığı nedir?|Refute|Confirm|Validate|Prove
+TR_TO_EN|What is the Turkish meaning of **"Vexing"**?|Can sıkıcı, sinir bozucu|Rahatlatıcı|Sevindirici|Sakin
+TR_TO_EN|**"Miras, kalıt"** kelimesinin İngilizce karşılığı nedir?|Heritage|Debt|Burden|Loss
+TR_TO_EN|What is the Turkish meaning of **"Wary"**?|Tedbirli, temkinli|Dikkatsiz|Saf|Gözü kara
+TR_TO_EN|**"Önemsizleştirmek, küçümsemek"** fiilinin İngilizce karşılığı nedir?|Underestimate|Overrate|Praise|Admire
+TR_TO_EN|What is the Turkish meaning of **"Zealous"**?|Coşkulu, hevesli|İlgisiz|Soğuk|Gönülsüz
+TR_TO_EN|**"Açığa çıkarmak, ifşa etmek"** fiilinin İngilizce karşılığı nedir?|Disclose|Hide|Conceal|Cover
+TR_TO_EN|What is the Turkish meaning of **"Altruistic"**?|Fedakar, özgecil|Bencil|Cimri|Açgözlü
+TR_TO_EN|**"Hassas, narin"** kelimesinin İngilizce karşılığı nedir?|Delicate|Rough|Tough|Stout
+TR_TO_EN|What is the Turkish meaning of **"Benevolent"**?|Hayırsever, iyiliksever|Kötü niyetli|Acımasız|Cimri
+TR_TO_EN|**"Birleştirmek, kaynaştırmak"** fiilinin İngilizce karşılığı nedir?|Integrate|Isolate|Separate|Scatter
+TR_TO_EN|What is the Turkish meaning of **"Candor"**?|Açık sözlülük, samimiyet|İkiyüzlülük|Yalan|Kurnazlık
+TR_TO_EN|**"Teşhis etmek, belirlemek"** fiilinin İngilizce karşılığı nedir?|Diagnose|Confuse|Mislead|Ignore
+TR_TO_EN|What is the Turkish meaning of **"Deference"**?|Saygı, hürmet|Saygısızlık|Küçümseme|Küstahlık
+TR_TO_EN|**"Yenilikçi"** kelimesinin İngilizce karşılığı nedir?|Innovative|Traditional|Outdated|Conservative
+TR_TO_EN|What is the Turkish meaning of **"Empathy"**?|Duygudaşlık, empati|Duygusuzluk|Düşmanlık|Kıskançlık
+TR_TO_EN|**"Bağışıklık, muafiyet"** kelimesinin İngilizce karşılığı nedir?|Immunity|Vulnerability|Exposure|Disease
+TR_TO_EN|What is the Turkish meaning of **"Frugal"**?|Tutumlu, idareli|Müsrif|Savurgan|Cömert
+TR_TO_EN|**"Önyargı, peşin hüküm"** kelimesinin İngilizce karşılığı nedir?|Prejudice|Fairness|Justice|Tolerance
+TR_TO_EN|What is the Turkish meaning of **"Gullible"**?|Saf, kolay aldatılan|Uyanık|Şüpheci|Kurnaz
+TR_TO_EN|**"Gereksiz yere harcamak, israf etmek"** fiilinin İngilizce karşılığı nedir?|Squander|Save|Conserve|Accumulate
+TR_TO_EN|What is the Turkish meaning of **"Hostile"**?|Düşmanca, saldırgan|Dostça|Sıcakkanlı|Nazik
+TR_TO_EN|**"Yeterli, kafi"** kelimesinin İngilizce karşılığı nedir?|Sufficient|Inadequate|Deficient|Lacking
+TR_TO_EN|What is the Turkish meaning of **"Indifferent"**?|Kayıtsız, umursamaz|İlgili|Heyecanlı|Meraklı
+TR_TO_EN|**"Şiddetlendirmek, kötüleştirmek"** fiilinin İngilizce karşılığı nedir?|Aggravate|Alleviate|Relieve|Improve
+TR_TO_EN|What is the Turkish meaning of **"Juxtapose"**?|Yan yana koyup karşılaştırmak|Ayrı tutmak|Gizlemek|Yok etmek
+TR_TO_EN|**"Göstermek, kanıtlamak"** fiilinin İngilizce karşılığı nedir?|Demonstrate|Conceal|Suppress|Ignore
+TR_TO_EN|What is the Turkish meaning of **"Lament"**?|Yas tutmak, feryat etmek|Kutlamak|Gülmek|Sevinmek
+TR_TO_EN|**"Karşı koymak, direnmek"** fiilinin İngilizce karşılığı nedir?|Resist|Surrender|Submit|Yield
+TR_TO_EN|What is the Turkish meaning of **"Mundane"**?|Sıradan, olağan|Olağanüstü|Büyüleyici|Eşsiz
+TR_TO_EN|**"Kışkırtmak, tahrik etmek"** fiilinin İngilizce karşılığı nedir?|Provoke|Calm|Pacify|Soothe
+TR_TO_EN|What is the Turkish meaning of **"Nostalgia"**?|Geçmişe özlem, nostalji|Gelecek kaygısı|Öfke|Korku
+TR_TO_EN|**"Müzakere etmek, pazarlık yapmak"** fiilinin İngilizce karşılığı nedir?|Negotiate|Dictate|Enforce|Command
+TR_TO_EN|What is the Turkish meaning of **"Optimistic"**?|İyimser|Kötümser|Kuşkucu|Umutsuz
+TR_TO_EN|**"Önlemek, engellemek"** fiilinin İngilizce karşılığı nedir?|Prevent|Cause|Trigger|Promote

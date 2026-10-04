@@ -1,0 +1,48 @@
+MEANING|The developer found a critical **bug** in the latest update.|Yazılım hatası / Açık|Yazılım hatası / Açık|Yeni özellik|Donanım parçası|Yedekleme dosyası
+FILL_BLANK|Always create a ___ of your important files before formatting your PC.|backup|backup|screen|mouse|cable
+SYNONYM|What is the closest synonym of **deploy** a web service?|Launch|Launch|Delete|Hide|Block
+ANTONYM|What is the opposite of **download** files from the internet?|Upload|Upload|Save|Copy|Paste
+COMPLETION|To access your private account, please enter your username and ___.|password|password|keyboard|monitor|printer
+TR_TO_EN|"Yeni güncelleme sistem performansını gözle görülür şekilde artırdı."|The new update improved system performance noticeably.|The new update improved system performance noticeably.|The program crashed right after installation.|We forgot to save our work on the computer.|The internet speed is very slow today.
+MEANING|The software will automatically **restart** after the installation.|Yeniden başlatmak|Yeniden başlatmak|Kapatıp açmamak|Kaldırmak|Silmek
+FILL_BLANK|Connect your smartphone to the local Wi-Fi ___ to browse the web.|network|network|charger|battery|case
+SYNONYM|What is the synonym of **portable** computer?|Laptop|Laptop|Server|Tower|Mainframe
+ANTONYM|What is the opposite of **wireless** connection?|Wired|Wired|Bluetooth|Cellular|Radio
+COMPLETION|If the computer screen freezes, you can try pressing Ctrl+Alt+___ keys.|Delete|Delete|Space|Shift|Enter
+TR_TO_EN|"Veriler bulut sunucusunda güvenli bir şekilde saklanıyor."|The data is securely stored in the cloud server.|The data is securely stored in the cloud server.|We lost all information during the crash.|The hard drive is completely full.|Nobody knows where the files are.
+MEANING|You need high internet **bandwidth** to stream 4K movies.|Bant genişliği / Veri aktarım kapasitesi|Bant genişliği / Veri aktarım kapasitesi|Ekran çözünürlüğü|Pil ömrü|Kablo uzunluğu
+FILL_BLANK|Make sure your computer has an active anti-___ program installed.|virus|virus|game|music|video
+SYNONYM|What is the synonym of **directory** in file systems?|Folder|Folder|File|Shortcut|Disk
+ANTONYM|What is the opposite of **enable** a feature?|Disable|Disable|Activate|Turn on|Start
+COMPLETION|Clear your web browser's cache and cookies to protect your ___.|privacy|privacy|hardware|keyboard|speaker
+TR_TO_EN|"Uygulama arka planda sessizce çalışıyor."|The application is running quietly in the background.|The application is running quietly in the background.|The computer turned off suddenly.|I uninstalled the mobile game.|The software was deleted by mistake.
+MEANING|The system sends a **notification** whenever a new email arrives.|Bildirim / Uyarı|Bildirim / Uyarı|Şifre sıfırlama|Reklam|Hata mesajı
+FILL_BLANK|You can navigate through web pages using a computer ___.|mouse|mouse|printer|speaker|scanner
+SYNONYM|What is the synonym of **device**?|Gadget|Gadget|Program|Software|Code
+ANTONYM|What is the opposite of **hardware**?|Software|Software|Monitor|Keyboard|Motherboard
+COMPLETION|Click on the hyperlink to visit the official ___ of the company.|website|website|keyboard|screen|mousepad
+TR_TO_EN|"Bu dosya formatı telefonum tarafından desteklenmiyor."|This file format is not supported by my phone.|This file format is not supported by my phone.|My smartphone battery is completely dead.|The download finished in two seconds.|I changed my phone cover yesterday.
+MEANING|The database administrator managed to **restore** lost records.|Geri yüklemek / Kurtarmak|Geri yüklemek / Kurtarmak|Tamamen silmek|Şifrelemek|Değiştirmek
+FILL_BLANK|The screen resolution can be adjusted in the display ___ menu.|settings|settings|games|music|browser
+SYNONYM|What is the synonym of **link** on a web page?|Hyperlink|Hyperlink|Image|Paragraph|Title
+ANTONYM|What is the opposite of **public** network?|Private|Private|Open|Free|Shared
+COMPLETION|Don't forget to plug in the charger when the battery is ___.|low|low|full|fast|loud
+TR_TO_EN|"Şifrenizi kimseyle paylaşmamanız önerilir."|It is recommended that you do not share your password with anyone.|It is recommended that you do not share your password with anyone.|You should write your password on the desk.|Everyone can use your account freely.|Change your phone number immediately.
+MEANING|The company uses an advanced **algorithm** to recommend songs.|Algoritma / Çözüm adımları|Algoritma / Çözüm adımları|Hoparlör sistemi|Kablo ağı|Müzik aleti
+FILL_BLANK|Our developer team uses GitHub for source code version ___.|control|control|hardware|screen|paper
+SYNONYM|What is the closest synonym of **query** in database systems?|Search request|Search request|Delete action|Password key|Hardware fix
+ANTONYM|What is the opposite of **online** mode?|Offline|Offline|Connected|Live|Streaming
+COMPLETION|This modern tablet has a responsive touch ___.|screen|screen|cable|plug|wire
+TR_TO_EN|"Sunucu aşırı yüklenme nedeniyle yanıt vermiyor."|The server is not responding due to overload.|The server is not responding due to overload.|The internet connection is perfect.|We bought five new laptops today.|The website was updated yesterday.
+MEANING|You can **customize** the appearance of the operating system.|Kişiselleştirmek / Kendine göre ayarlamak|Kişiselleştirmek / Kendine göre ayarlamak|Bozmak|Varsayılana döndürmek|Kapatmak
+FILL_BLANK|Artificial ___ is changing the way we work and learn every day.|intelligence|intelligence|keyboard|monitor|cable
+SYNONYM|What is the synonym of **error** in programming?|Mistake|Mistake|Success|Feature|Plugin
+ANTONYM|What is the opposite of **compress** a folder?|Extract|Extract|Zip|Shrink|Reduce
+COMPLETION|To prevent data theft, sensitive customer information is always ___.|encrypted|encrypted|shared|published|printed
+TR_TO_EN|"Programı bilgisayarınızdan güvenle kaldırabilirsiniz."|You can safely uninstall the program from your computer.|You can safely uninstall the program from your computer.|The computer will explode immediately.|Never turn off the power switch.|Download the installer once again.
+MEANING|The website has an intuitive user **interface**.|Arayüz / Ön yüz tasarımı|Arayüz / Ön yüz tasarımı|Arka plan kodu|Veritabanı tablosu|Ağ kablosu
+FILL_BLANK|Please check your spam folder if the confirmation ___ did not arrive.|email|email|box|package|letter
+SYNONYM|What is the synonym of **modify**?|Alter|Alter|Break|Leave|Forget
+ANTONYM|What is the opposite of **secure** connection?|Vulnerable|Vulnerable|Protected|Safe|Encrypted
+COMPLETION|Press the power button on the front panel to turn ___ the machine.|on|on|in|at|by
+TR_TO_EN|"Eski yazıcıyı yeni bilgisayara bağlayamadık."|We could not connect the old printer to the new computer.|We could not connect the old printer to the new computer.|The printer ran out of black ink.|We bought three new wireless mice.|The monitor displays high resolution graphics.

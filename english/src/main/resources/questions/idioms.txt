@@ -1,0 +1,48 @@
+MEANING|Stop beating around the bush and **cut to the chase**!|Sadede gelmek / Ana konuya geçmek|Sadede gelmek / Ana konuya geçmek|Zaman kazanmak|Sinirlenmek|Konuyu değiştirmek
+FILL_BLANK|Don't judge a book by its ___; people can surprise you.|cover|cover|price|page|author
+SYNONYM|What does **once in a blue moon** mean?|Rarely|Rarely|Always|Every day|Never
+ANTONYM|What is the opposite behavior of **spilling the beans**?|Keeping a secret|Keeping a secret|Telling a lie|Shouting|Gossiping
+COMPLETION|Learning to drive was a piece of ___ for him; he passed on his first try.|cake|cake|pie|bread|candy
+TR_TO_EN|"Zor bir durumla karşılaştığında metanetli olmalısın."|When facing a tough situation, you should bite the bullet.|When facing a tough situation, you should bite the bullet.|You should give up whenever problems appear.|Always avoid making choices under pressure.|Complaining loudly is the best option in crises.
+MEANING|She was on **cloud nine** after receiving her exam results.|Havalara uçmak / Aşırı mutlu olmak|Havalara uçmak / Aşırı mutlu olmak|Çok yorulmak|Korkuya kapılmak|Hayal kırıklığına uğramak
+FILL_BLANK|I am feeling a bit under the ___ today, so I will stay in bed.|weather|weather|cloud|rain|blanket
+SYNONYM|What does **cost an arm and a leg** imply?|Extremely expensive|Extremely expensive|Very cheap|Free of charge|Fairly priced
+ANTONYM|What is the opposite of **seeing eye to eye** with someone?|Disagreeing|Disagreeing|Agreeing|Helping|Supporting
+COMPLETION|Break a ___ tonight at your theater performance!|leg|leg|arm|hand|glass
+TR_TO_EN|"Geçmişte kaldı, dökülen süte ağlamanın faydası yok."|It is in the past; there is no use crying over spilled milk.|It is in the past; there is no use crying over spilled milk.|We should blame everyone for the mistake.|Keep thinking about the problem forever.|Nobody wants to drink cold milk.
+MEANING|He decided to **call it a day** after working ten hours straight.|Günü noktalamak / Paydos etmek|Günü noktalamak / Paydos etmek|İşe yeni başlamak|Mola vermeyi reddetmek|Yeniden çalışmak
+FILL_BLANK|Better ___ than never; I'm glad you finally arrived.|late|late|early|never|quick
+SYNONYM|What is the closest meaning of **hit the sack**?|Go to sleep|Go to sleep|Wake up|Start exercising|Eat dinner
+ANTONYM|What is the opposite of **burn bridges**?|Maintain relationships|Maintain relationships|Fight with friends|Quit your job|Move away
+COMPLETION|You hit the nail on the ___ with that accurate answer.|head|head|finger|wall|desk
+TR_TO_EN|"Her bulutun bir gümüş astarı vardır (Her kötü şeyin iyi bir yanı vardır)."|Every cloud has a silver lining.|Every cloud has a silver lining.|Rainy weather makes everybody sad.|Storms always damage houses.|The sun never shines in winter.
+MEANING|The surprise party was a secret until Jack **let the cat out of the bag**.|Ağzından kaçırmak / Sırrı ifşa etmek|Ağzından kaçırmak / Sırrı ifşa etmek|Kediyi beslemek|Partiyi iptal etmek|Geç kalmak
+FILL_BLANK|Actions speak ___ than words.|louder|louder|faster|quieter|better
+SYNONYM|What does **hang in there** mean to someone struggling?|Don't give up|Don't give up|Drop everything|Run away|Stop trying
+ANTONYM|What is the opposite of **out of the blue**?|Expectedly|Expectedly|Suddenly|Instantly|Magically
+COMPLETION|Time ___ when you are having fun with friends.|flies|flies|runs|stops|sleeps
+TR_TO_EN|"Bir taşla iki kuş vurduk."|We killed two birds with one stone.|We killed two birds with one stone.|Birds fly away in autumn.|We found a very large rock.|Hunting is forbidden here.
+MEANING|She decided to **bite the bullet** and tell her boss the truth.|Dişini sıkmak / Acı bir durumu kabullenmek|Dişini sıkmak / Acı bir durumu kabullenmek|Kavgaya tutuşmak|Yalan söylemek|İşi hemen bırakmak
+FILL_BLANK|It takes two to ___; both of you share the blame.|tango|tango|dance|sing|fight
+SYNONYM|What does **through thick and thin** mean in friendship?|In all circumstances|In all circumstances|Only in good times|Temporarily|Rarely
+ANTONYM|What is the opposite of **at the eleventh hour**?|Well in advance|Well in advance|Too late|Suddenly|Last minute
+COMPLETION|You cannot have your cake and ___ it too.|eat|eat|bake|buy|sell
+TR_TO_EN|"Top artık senin sahanda (Sıra sende)."|The ball is in your court now.|The ball is in your court now.|Football is a popular sport.|You lost the tennis match.|Throw the ball to me quickly.
+MEANING|I have butterflies in my **stomach** before every public presentation.|Karnında kelebekler uçuşmak / Heyecanlanmak|Karnında kelebekler uçuşmak / Heyecanlanmak|Midesi bulanmak|Karnı acıkmak|Aşırı öfkelenmek
+FILL_BLANK|So far, so ___; everything is going according to the plan.|good|good|bad|slow|late
+SYNONYM|What does **spill the tea** mean in casual conversation?|Share gossip|Share gossip|Drink beverage|Clean the floor|Make hot water
+ANTONYM|What is the opposite of **playing it by ear**?|Planning ahead|Planning ahead|Listening closely|Acting randomly|Ignoring
+COMPLETION|No pain, no ___; you have to work hard for fitness.|gain|gain|loss|sweat|rest
+TR_TO_EN|"Şeytanın avukatlığını yapıyorum (Sırf tartışmak için karşı tarafı savunmak)."|I am just playing devil's advocate.|I am just playing devil's advocate.|I believe in bad spirits.|The lawyer was very rude.|Nobody likes arguing about facts.
+MEANING|Winning the lottery was a blessing in **disguise**.|Gizli lütuf / Başta kötü görünüp sonradan iyi olan durum|Gizli lütuf / Başta kötü görünüp sonradan iyi olan durum|Büyük felaket|Kayıp para|Sahte sevinç
+FILL_BLANK|When it rains, it ___; problems never come alone.|pours|pours|shines|stops|blows
+SYNONYM|What does **burn the midnight oil** mean?|Work late into the night|Work late into the night|Start a fire|Waste fuel|Sleep early
+ANTONYM|What is the opposite of **on the fence**?|Decided|Decided|Confused|Neutral|Hesitant
+COMPLETION|She spilled the beans and ruined the whole ___ surprise.|birthday|birthday|weather|dinner|exam
+TR_TO_EN|"Geç olsun güç olmasın."|Better late than never.|Better late than never.|Early birds catch worms.|Time waits for no man.|Haste makes waste.
+MEANING|Let's **touch base** next week to review progress.|Kısaca görüşmek / Durumu değerlendirmek|Kısaca görüşmek / Durumu değerlendirmek|Beyzbol oynamak|Tartışmayı bitirmek|İletişimi koparmak
+FILL_BLANK|He gave me the cold ___ after our minor argument.|shoulder|shoulder|hand|eye|face
+SYNONYM|What does **cost a fortune** mean?|Extremely expensive|Extremely expensive|Very economical|Affordable|Worthless
+ANTONYM|What is the opposite of **in hot water**?|Out of trouble|Out of trouble|In big danger|In deep trouble|Boiling
+COMPLETION|He was on thin ___ after making another critical error at work.|ice|ice|water|glass|air
+TR_TO_EN|"Söz gümüşse sükut altındır."|Silence is golden.|Silence is golden.|Gold is very expensive.|Speak up as loud as you can.|Words can easily hurt people.

@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>İngilizce Kelime Uygulaması</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<!-- Arka Plan Işıkları -->
+<div class="bg-shape shape-1"></div>
+<div class="bg-shape shape-2"></div>
+
+<!-- 1. GİRİŞ / KAYIT MODALI -->
+<div class="auth-overlay" id="auth-overlay">
+    <div class="auth-card">
+        <div class="brand-header">
+            <h2 class="auth-title" id="auth-title">İngilizce Kelime Uygulaması</h2>
+        </div>
+
+        <div class="auth-tabs">
+            <button class="auth-tab active" id="tab-login" onclick="switchAuthTab('login')">Giriş Yap</button>
+            <button class="auth-tab" id="tab-register" onclick="switchAuthTab('register')">Kayıt Ol</button>
+        </div>
+
+        <div class="auth-form">
+            <div class="input-group">
+                <span class="input-icon">👤</span>
+                <input type="text" id="auth-username" class="auth-input" placeholder="Kullanıcı Adı" autocomplete="off" />
+            </div>
+
+            <div class="password-wrapper">
+                <div class="input-group">
+                    <span class="input-icon">🔒</span>
+                    <input type="password" id="auth-password" class="auth-input" placeholder="Şifre" oninput="checkPasswordStrength()" />
+                </div>
+
+                <div id="password-strength-box" class="strength-box" style="display: none;">
+                    <div class="strength-bar-bg">
+                        <div id="strength-bar" class="strength-bar"></div>
+                    </div>
+                    <span id="strength-text" class="strength-text">Şifre Gücü: Zayıf</span>
+                </div>
+            </div>
+
+            <div id="gender-select-box" class="gender-selection" style="display: none;">
+                <label class="gender-btn active" id="gender-male" onclick="setGender('male')">
+                    <span class="g-icon">👨</span> Erkek
+                </label>
+                <label class="gender-btn" id="gender-female" onclick="setGender('female')">
+                    <span class="g-icon">👩</span> Kadın
+                </label>
+            </div>
+
+            <button class="auth-submit-btn" id="auth-submit-btn" onclick="submitAuth()">
+                <span>Giriş Yap</span>
+                <svg class="btn-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </button>
+
+            <div class="auth-message" id="auth-message"></div>
+        </div>
+    </div>
+</div>
+
+<!-- 2. KULLANICI LOBİ EKRANI -->
+<div class="container lobby-card-wrapper" id="lobby-screen" style="display: none;">
+    <button type="button" class="lobby-badge-btn badge-left" data-tooltip="Hatalarım" onclick="openMistakesModal()">
+        <span>📑</span>
+    </button>
+
+    <button type="button" class="lobby-badge-btn badge-right" data-tooltip="Rozetlerim" onclick="openBadgesModal()">
+        <span>🎖️</span>
+    </button>
+
+    <div class="profile-header">
+        <div class="avatar-wrapper">
+            <svg class="user-avatar" viewBox="0 0 100 100" width="86" height="86">
+                <circle cx="50" cy="50" r="48" fill="#e2e8f0"/>
+                <path d="M20,95 Q50,70 80,95 Z" fill="#4f46e5" />
+                <polygon points="50,75 42,95 58,95" fill="#ffffff" />
+                <polygon points="40,78 50,88 45,74" fill="#3730a3" />
+                <polygon points="60,78 50,88 55,74" fill="#3730a3" />
+                <rect x="44" y="60" width="12" height="14" fill="#fcd34d" rx="3"/>
+                <circle cx="50" cy="46" r="22" fill="#fcd34d"/>
+                <path d="M28,45 C28,26 40,20 50,20 C62,20 72,26 72,42 C68,36 60,33 50,33 C38,33 32,38 28,45 Z" fill="#78350f"/>
+                <circle cx="43" cy="46" r="2.5" fill="#1e293b"/>
+                <circle cx="57" cy="46" r="2.5" fill="#1e293b"/>
+                <path d="M46,55 Q50,59 54,55" stroke="#1e293b" stroke-width="2" fill="none" stroke-linecap="round"/>
+            </svg>
+        </div>
+
+        <h2 class="welcome-title" id="lobby-username">Kullanıcı</h2>
+
+        <button class="minimal-logout-btn" onclick="logout()" title="Çıkış Yap">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+                <polyline points="16 17 21 12 16 7"></polyline>
+                <line x1="21" y1="12" x2="9" y2="12"></line>
+            </svg>
+            <span>Çıkış Yap</span>
+        </button>
+    </div>
+
+    <!-- 9 Kategori Seçim Alanı -->
+    <div class="category-selection-area">
+        <h3 class="category-title">Bir Kategori Seçin</h3>
+        <div class="category-grid">
+            <div class="cat-card active" onclick="selectCategory('all', this)">
+                <span class="cat-icon">🎲</span>
+                <span class="cat-name">Karma Sınav</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('business', this)">
+                <span class="cat-icon">💼</span>
+                <span class="cat-name">İş Dünyası</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('academic', this)">
+                <span class="cat-icon">🎓</span>
+                <span class="cat-name">Akademik</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('idioms', this)">
+                <span class="cat-icon">🗣️</span>
+                <span class="cat-name">Deyimler</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('tech', this)">
+                <span class="cat-icon">💻</span>
+                <span class="cat-name">Teknoloji & IT</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('travel', this)">
+                <span class="cat-icon">✈️</span>
+                <span class="cat-name">Seyahat</span>
+            </div>
+            <!-- debate yerine Kelime Düellosu eklendi -->
+            <div class="cat-card" onclick="selectCategory('vocabulary', this)">
+                <span class="cat-icon">📚</span>
+                <span class="cat-name">Kelime Düellosu</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('kitchen', this)">
+                <span class="cat-icon">🍳</span>
+                <span class="cat-name">Mutfak & Yemek</span>
+            </div>
+            <div class="cat-card" onclick="selectCategory('daily', this)">
+                <span class="cat-icon">🏡</span>
+                <span class="cat-name">Gündelik Yaşam</span>
+            </div>
+        </div>
+
+        <button class="start-test-btn" onclick="startTest()">Sorulara Başla 🚀</button>
+    </div>
+</div>
+
+<!-- 3. TEST / SORU EKRANI -->
+<div class="container quiz-card-wrapper" id="quiz-screen" style="display: none;">
+
+    <!-- SAĞ KENARA YAPIŞIK SÜRGÜLÜ İPUCU ÇEKMECESİ -->
+    <div class="side-drawer-tab" id="joker-drawer" onmouseleave="closeJokerDrawer()">
+        <div class="tab-handle" onclick="toggleJokerDrawer()">
+            <span class="handle-text">İPUCU AL</span>
+        </div>
+        <div class="tab-body">
+            <!-- %50 Jokeri -->
+            <button id="joker-fifty" class="drawer-joker-item active-joker" onclick="useFiftyFiftyJoker()" title="%50 Şık Ele">
+                <span class="j-icon">🌓</span>
+                <span class="j-pct-text">%50</span>
+                <span class="j-badge" id="joker-fifty-count">1</span>
+            </button>
+
+            <!-- 2. Hak Jokeri -->
+            <button id="joker-second" class="drawer-joker-item active-joker" onclick="useSecondChanceJoker()" title="2. Şans Hakkı">
+                <span class="j-icon">🛡️</span>
+                <span class="j-pct-text">Hak 2</span>
+                <span class="j-badge" id="joker-second-count">1</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- SAĞ ÜSTTEN ÇIKAN ÖĞRETMEN MASKOTU -->
+    <div id="teacher-cheer" class="teacher-mascot-container">
+        <div class="teacher-speech-bubble" id="teacher-bubble">
+            <span class="speech-title">🎉 Harikasın!</span>
+            <span class="speech-desc" id="teacher-msg">10 soru barajını geçtin!</span>
+        </div>
+        <div class="teacher-avatar">
+            <svg viewBox="0 0 100 100" width="70" height="70">
+                <circle cx="50" cy="50" r="45" fill="#fde047" />
+                <path d="M20,40 Q50,15 80,40 Q50,25 20,40 Z" fill="#475569" />
+                <circle cx="38" cy="46" r="10" fill="none" stroke="#1e293b" stroke-width="3" />
+                <circle cx="62" cy="46" r="10" fill="none" stroke="#1e293b" stroke-width="3" />
+                <line x1="48" y1="46" x2="52" y2="46" stroke="#1e293b" stroke-width="3" />
+                <circle cx="38" cy="46" r="3.5" fill="#1e293b" />
+                <circle cx="62" cy="46" r="3.5" fill="#1e293b" />
+                <path d="M42,64 Q50,72 58,64" fill="none" stroke="#b91c1c" stroke-width="3" stroke-linecap="round" />
+                <circle cx="28" cy="56" r="4" fill="#f87171" opacity="0.6" />
+                <circle cx="72" cy="56" r="4" fill="#f87171" opacity="0.6" />
+                <polygon points="50,12 85,25 50,38 15,25" fill="#1e1b4b" />
+                <rect x="36" y="27" width="28" height="10" fill="#312e81" rx="2" />
+                <line x1="80" y1="25" x2="84" y2="44" stroke="#f59e0b" stroke-width="2.5" />
+                <circle cx="84" cy="45" r="2.5" fill="#f59e0b" />
+            </svg>
+        </div>
+    </div>
+
+    <div class="header">
+        <div class="question-tracker">
+            <span id="question-progress">Soru: 1 / 10</span>
+            <span class="qtype-tag" id="qtype-badge">KELİME ANLAMI</span>
+        </div>
+        <div class="stats-bar">
+            <div class="stat-badge">🔥 Doğru: <span id="correct-count-val">0</span></div>
+        </div>
+    </div>
+
+    <div class="question-box">
+        <div class="sentence-display" id="example-text">Yükleniyor...</div>
+    </div>
+
+    <div class="feedback" id="feedback-banner"></div>
+    <div class="options-grid" id="options-grid"></div>
+
+    <div class="actions">
+        <button class="next-btn" id="next-btn">Sonraki Soru ➔</button>
+    </div>
+</div>
+
+<!-- 4. SONUÇ RAPORU EKRANI -->
+<div class="container" id="result-screen" style="display: none;">
+    <div class="result-box" id="result-celebration"></div>
+    <div class="review-section">
+        <h4>Bu Testteki Hataların:</h4>
+        <div id="wrong-answers-list" class="wrong-list"></div>
+    </div>
+    <div class="actions" style="margin-top: 24px; justify-content: center; gap: 12px;">
+        <button class="start-test-btn" onclick="startTest()">Yeniden Başla 🔄</button>
+        <button class="back-lobby-btn" onclick="showLobby()">Menüye Dön</button>
+    </div>
+</div>
+
+<!-- 5. ROZETLERİM MODALI -->
+<div class="modal-overlay" id="badges-modal" style="display: none;">
+    <div class="wide-modal-card">
+        <div class="modal-header">
+            <h2>🎖️ Rozetlerim & İlerlemem</h2>
+            <button class="close-modal-btn" onclick="closeBadgesModal()">✕</button>
+        </div>
+        <div class="folder-tabs" id="badges-tabs"></div>
+        <div class="badges-content" id="badges-content"></div>
+    </div>
+</div>
+
+<!-- 6. HATALARIM MODALI -->
+<div class="modal-overlay" id="mistakes-modal" style="display: none;">
+    <div class="wide-modal-card">
+        <div class="modal-header">
+            <div class="mistakes-header-left">
+                <h2>📑 Hata & Doğru Geçmişim</h2>
+                <button id="btn-practice-mistakes" class="practice-mistakes-btn" onclick="startMistakePracticeQuiz()">
+                    <span>🎯 Hatalarımdan Sınav Ol</span>
+                    <span class="mistake-count-badge" id="mistake-badge-num">0</span>
+                </button>
+            </div>
+            <button class="close-modal-btn" onclick="closeMistakesModal()">✕</button>
+        </div>
+        <div class="folder-tabs" id="mistakes-tabs"></div>
+        <div class="mistakes-content" id="mistakes-content"></div>
+    </div>
+</div>
+
+<script src="/app.js"></script>
+</body>
+</html>
